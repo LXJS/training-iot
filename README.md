@@ -1,19 +1,24 @@
-IoT
-=====================
-
+Internet of Things Training
+===========================
 
 ## Description
 
-`fill in`
+The nature of computing is changing. Over the next decade computing will shift from our current conception of a screen with an input device to a much more distributed model on based on deeper integration into the everyday things in our lives.
+
+In this training, we are going to get our hands dirty with hardware and discover that open hardware has put building real world devices within the reach of all of us. Naturally, we are going to have fun too.
 
 ## With this training, you will learn
 
-`fill in`
+* 1: How to interface with hardware using JavaScript on a Raspberry Pi:
+    - Read a digital signal
+    - Write a digital signal 
+* 2: Send data to a cloud service from your hardware device.
+* 3: How to combine the data streams from multiple devices from this cloud service into an application.
 
 ## Trainers
 
-* [Tim Park]()
-* [Nuno Job]()
+* [Tim Park](http://github.com/timfpark): Twitter: @timpark
+* [Nuno Job](http://github.com/dscape): Twitter: @dscape
 
 ## Preparations for this training
 
