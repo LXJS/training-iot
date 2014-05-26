@@ -38,10 +38,10 @@ In order to prepare to this training you should do the following list of reading
 * 2: Work through the camera sample on http://nitrogen.io/
 
 
-## 27 Jun XX:YYh Participants
+## 27 Jun 17:30h Participants
 
 `TBA`
 
-## 28 Jun XX:YYh Participants
+## 28 Jun 14:30h Participants
 
 `TBA`
