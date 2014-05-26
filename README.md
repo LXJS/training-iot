@@ -32,14 +32,11 @@ In order to prepare to this training you should do the following list of reading
 * 3: [i2c module](https://github.com/kelly/node-i2c): Base module for many modules that interface with i2c devices.
 * 4: [bmp085 module](https://github.com/fiskeben/bmp085): Module that provides support for the [BMP085](https://www.adafruit.com/products/391) that measure temperature and pressure.
 
-### 
+### TODO
 
 * 1: 
 * 2: Work through the camera sample on http://nitrogen.io/
 
-### Materials
-
-`fill in`
 
 ## 27 Jun XX:YYh Participants
 
