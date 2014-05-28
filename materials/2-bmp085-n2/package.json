@@ -1,0 +1,18 @@
+{
+  "name": "bmp085-training",
+  "homepage": "https://github.com/nitrogenjs/camera",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nitrogenjs/camera.git"
+  },
+  "version": "0.1.0",
+  "private": "true",
+  "dependencies": {
+    "bmp085": "*",
+    "nitrogen-bmp085": "*",
+    "nitrogen": "*" 
+  },
+  "devDependencies": {
+    "mocha": "1.x"
+  }
+}
