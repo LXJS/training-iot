@@ -13,15 +13,15 @@ Nitrogen has an application execution environment called Reactor that makes it e
 3. Insert this SD card into your computer and flash this image to your SD card:
 
   * MacOSX: 
-  1. sudo diskutil list (note X for your flash drive in the listing the follows in the form /dev/rdiskX)
-  2. sudo diskutil unmountDisk /dev/rdiskX 
-  3. sudo dd bs=128m if=raspbian.img of=/dev/rdiskX`
+  + sudo diskutil list (note X for your flash drive in the listing the follows in the form /dev/rdiskX)
+  + sudo diskutil unmountDisk /dev/rdiskX 
+  + sudo dd bs=128m if=raspbian.img of=/dev/rdiskX`
 
   * Windows instructions:
-  1. Install Win32DiskImager and use the GUI to burn the image to the SD card.
+  + Install Win32DiskImager and use the GUI to burn the image to the SD card.
 
   * Linux instructions:
-  1. [Follow these instructions](http://xmodulo.com/2013/11/write-raspberry-pi-image-sd-card.html)
+  + [Follow these instructions](http://xmodulo.com/2013/11/write-raspberry-pi-image-sd-card.html)
 
 4. Once finished, insert the SD card into the Raspberry Pi and reconnect the its power.
 
