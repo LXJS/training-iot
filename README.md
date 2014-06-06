@@ -35,5 +35,45 @@ In order to prepare to this training you should do the following list of reading
 * 2: Work through the [Nitrogen guide](http://nitrogen.io/guides/start/setup.html) for making your laptop's camera internet controllable.
 * 3: Download your Raspbian image from the Nitrogen web admin.  (AVAILABLE SOON)
 
-## 27 Jun 17:30h-20:00h
-## 28 Jun 14:30h-17:00h
+## 28 jun - 14:30h Participants
+
+- Afonso Oliveira - [afonsomota](https://github.com/afonsomota)
+- André Santos - [andrefs](https://github.com/andrefs)
+- Bruno Abrantes - [inf0rmer](https://github.com/inf0rmer)
+- David Cruz - [dcruz](https://github.com/dcruz)
+- Franz Enzenhofer - [franzenzenhofer](https://github.com/franzenzenhofer)
+- Frederic Hemberger - [fhemberger](https://github.com/fhemberger)
+- James Wood - [jamesjwood](https://github.com/jamesjwood)
+- João Reis
+- Leonardo Aretakis - [leoaretakis](https://github.com/leoaretakis)
+- Luis Naia
+- Mario Nzualo - [marionzualo](https://github.com/marionzualo)
+- Miguel Palhas - [naps62](https://github.com/naps62)
+- Paulo Miranda - [pauloabmiranda](https://github.com/pauloabmiranda)
+- Rogério Vicente - [rogeriopvl](https://github.com/rogeriopvl)
+- Ronaldo Sousa - [ronaldofs](https://github.com/ronaldofs)
+- Sebastian Golasch - [asciidisco](https://github.com/asciidisco)
+- Zoltan Feher - [zkiiito](https://github.com/zkiiito)
+
+## 27 jun - 17:30h Participants
+
+- Charlie Robbins - [indexzero](https://github.com/indexzero)
+- Dominic Lüchinger - [dol](https://github.com/dol)
+- John Brett - [johnbrett](https://github.com/johnbrett)
+- Jonathan Lipps - [jlipps](https://github.com/jlipps)
+- Jorge Braz - [jorgepcbraz](https://github.com/jorgepcbraz)
+- Luis Confraria - [luisbug](https://github.com/luisbug)
+- Marco Pantaleo - [peeofive](https://github.com/peeofive)
+- Matteo Collina - [mcollina](https://github.com/mcollina)
+- Matthias Knoll - [kohlikohl](https://github.com/kohlikohl)
+- Michael Geers - [naltatis](https://github.com/naltatis)
+- Miguel Pereira
+- Nelson Neves - [nneves](https://github.com/nneves)
+- Nuno Costa - [naflcosta](https://github.com/naflcosta)
+- Paulo Vieira - [paulovieira](https://github.com/paulovieira)
+- Ricardo Tomasi - [ricardobeat](https://github.com/ricardobeat)
+- Ricardo Soares - [rsoares](https://github.com/rsoares)
+- Robert Kowalski - [robertkowalski](https://github.com/robertkowalski)
+- Sandro Maio - [sandromaio](https://github.com/sandromaio)
+- Tiago Rodrigues - [trodrigues](https://github.com/trodrigues)
+- Tracy Hinds - [hackygolucky](https://github.com/hackygolucky)
