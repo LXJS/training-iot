@@ -46,7 +46,7 @@ In order to prepare to this training you should do the following list of reading
 - James Wood - [jamesjwood](https://github.com/jamesjwood)
 - João Reis
 - Leonardo Aretakis - [leoaretakis](https://github.com/leoaretakis)
-- Luis Naia
+- Luis Naia - [darkbls](https://github.com/darkbls)
 - Mario Nzualo - [marionzualo](https://github.com/marionzualo)
 - Miguel Palhas - [naps62](https://github.com/naps62)
 - Paulo Miranda - [pauloabmiranda](https://github.com/pauloabmiranda)
