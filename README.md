@@ -67,7 +67,7 @@ In order to prepare to this training you should do the following list of reading
 - Matteo Collina - [mcollina](https://github.com/mcollina)
 - Matthias Knoll - [kohlikohl](https://github.com/kohlikohl)
 - Michael Geers - [naltatis](https://github.com/naltatis)
-- Miguel Pereira
+- Miguel Pereira - [miguelampereira](https://github.com/miguelampereira)
 - Nelson Neves - [nneves](https://github.com/nneves)
 - Nuno Costa - [naflcosta](https://github.com/naflcosta)
 - Paulo Vieira - [paulovieira](https://github.com/paulovieira)
