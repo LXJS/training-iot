@@ -26,3 +26,4 @@ service.connect(bmp085, function(err, session) {
 		});
 
 	}, 30 * 1000);
+});
