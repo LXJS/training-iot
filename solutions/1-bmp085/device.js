@@ -15,4 +15,4 @@ setInterval(function() {
         console.log('The temperature is currently ' + data.temperature + 'C and the pressure is currently ' + pascals + ' pascals.');
     });
 
-}, 60 * 1000);
+}, 1 * 1000);
