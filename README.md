@@ -33,7 +33,7 @@ In order to prepare to this training you should do the following list of reading
 
 * 1: Register for a [Nitrogen account](http://admin.nitrogen.io).
 * 2: Work through the [Nitrogen guide](http://nitrogen.io/guides/start/setup.html) for making your laptop's camera internet controllable.
-* 3: Download your Raspbian image from the Nitrogen web admin.  (AVAILABLE SOON)
+* 3: Download your Raspbian image from the Nitrogen web admin: https://admin.nitrogen.io/#/apikeys
 
 ## 28 jun - 14:30h Participants
 
