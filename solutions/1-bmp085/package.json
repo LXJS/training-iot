@@ -8,7 +8,7 @@
   "version": "0.1.0",
   "private": "true",
   "dependencies": {
-    "bmp085": "*"
+    "bmp085": "~0.3.2"
   },
   "devDependencies": {
     "mocha": "1.x"

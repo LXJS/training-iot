@@ -8,9 +8,9 @@
   "version": "0.1.0",
   "private": "true",
   "dependencies": {
-    "bmp085": "*",
-    "nitrogen-bmp085": "*",
-    "nitrogen": "*" 
+    "bmp085": "~0.3.2",
+    "nitrogen": "~0.1.317",
+    "nitrogen-leveldb-store": "~0.1.203"
   },
   "devDependencies": {
     "mocha": "1.x"

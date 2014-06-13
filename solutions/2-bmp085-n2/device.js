@@ -1,5 +1,5 @@
 var config = require('./config') 
-  ,	nitrogen = require('nitrogen')
+  , nitrogen = require('nitrogen')
   , BMP085 = require('bmp085');
 
 // The nitrogen-bmp085 module wraps the bmp085 module into a Nitrogen device that emits messages.
