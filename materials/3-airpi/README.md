@@ -2,7 +2,7 @@
 
 Most embedded devices in the real world are behind firewalls and/or live in extremely inaccessible places. There are also typically a great number of them, making deploying and upgrading them one by one impossible.
 
-Nitrogen has an application execution environment called the Reactor that makes deploying applications to device fleets like this easier. In Nitrogen, an application is just an npm module. You can see this by having a quick look at the implementation of the [AirPi device application](http://github.com/nitrogenjs/apps/device/airpi). In this lesson, we are going to use the Reactor to deploy an application to our AirPi equiped Raspberry Pi.  
+Nitrogen has an application execution environment called the Reactor that makes deploying applications to device fleets like this easier. In Nitrogen, an application is just an npm module. You can see this by having a quick look at the implementation of the [AirPi device application](https://github.com/nitrogenjs/devices/tree/master/airpi). In this lesson, we are going to use the Reactor to deploy an application to our AirPi equiped Raspberry Pi.
 
 ## Instructions
 
@@ -11,9 +11,9 @@ Nitrogen has an application execution environment called the Reactor that makes 
 1. Navigate to your [API Keys in Nitrogen's web admin](http://admin.nitrogen.io/#/apikeys) and download a personalized Raspbian Nitrogen image. This is just Raspbian (the Debian distribution that comes with every Raspberry Pi) with a Nitrogen Reactor installed and preconfigured with your API key.
 2. Using the 2nd SD card that was provided to you, flash this image to this 2nd card:  (PLEASE DO NOT FLASH THE CARD WITH THE TAPE ON IT!)
 
-#### MacOS: 
+#### MacOS:
   + sudo diskutil list (note X for your flash drive in the listing the follows in the form /dev/rdiskX)
-  + sudo diskutil unmountDisk /dev/rdiskX 
+  + sudo diskutil unmountDisk /dev/rdiskX
   + sudo dd bs=128m if=raspbian.img of=/dev/rdiskX`
 
 #### Windows:
