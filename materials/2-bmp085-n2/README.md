@@ -1,6 +1,6 @@
 # Lesson 2: BMP085 Nitrogen Device
 
-In this lesson, we are going to build a device application that relays our temperature and pressure measurements to Nitrogen. Nitrogen is an open source platform that makes it easier to manage devices and build applications that use them. As part of this training, we are going to build a fleet of devices that help us monitor the environment.
+In this lesson, we are going to build a device application that relays our temperature and pressure measurements to Nitrogen. Nitrogen is an open source platform that makes it easier to combine internet of things devices together into applications. As part of this training, we are going to build a fleet of devices that help us monitor the environment.
 
 ## Instructions
 
