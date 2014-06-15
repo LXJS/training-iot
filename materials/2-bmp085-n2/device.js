@@ -1,4 +1,4 @@
-var config = require('./config') 
+var config = require('./config')
   ,	nitrogen = require('nitrogen')
   , BMP085Device = require('nitrogen-bmp085');
 
@@ -18,12 +18,12 @@ service.connect(bmp085, function(err, session) {
 	setInterval(function() {
 
 		// Nitrogen sensor devices take measurements and then callback with a set of Nitrogen messages.
-		bmp085.measure(session, function(err, messages) {
+		bmp085.measure(function(err, messages) {
 
 		    // 2. Write the code to send these messages to the Nitrogen service.
 
 		    // HINT: see http://nitrogen.io/.../ for an example.
 		});
 
-	}, 30 * 1000);
+	}, 5 * 1000);
 });
