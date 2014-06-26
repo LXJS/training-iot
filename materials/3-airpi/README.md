@@ -40,3 +40,5 @@ Nitrogen has an application execution environment called the Reactor that makes 
 12. You can see what happened in this step by going to back to the [Nitrogen web admin](https://admin.nitrogen.io) and navigating to your AirPi device.Click on the 'Permissions' tab: this will display the permissions that are granted to the Application for the device. If you later decided that you wanted to revoke these permissions for this application, you can delete them here.
 
 That's it - you've taken a blank Raspberry Pi, installed a device application that captures climate information and relays it to the cloud, and then authorized a 3rd party application to use the data of that device. All with JavaScript!
+
+If you got this far, come give me your twitter handles so I can enter you into the raffle for the Raspberry Pi Prototyping Plates.
