@@ -21,9 +21,9 @@ service.connect(bmp085, function(err, session) {
 		bmp085.measure(function(err, messages) {
 
 		    // 2. Write the code to send these messages to the Nitrogen service.
-
-		    // HINT: see http://nitrogen.io/.../ for an example.
+                   
+                    // Hint: see http://nitrogen.io/docs/nitrogen/message.html 
 		});
 
-	}, 5 * 1000);
+	}, 10 * 1000);
 });

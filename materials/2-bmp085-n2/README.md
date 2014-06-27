@@ -16,7 +16,7 @@ In this lesson, we are going to build a device application that relays our tempe
 1. Shell into your device using the ip address written on the bottom from your computer using 'ssh 10.x.x.x'.  The username is 'pi' and the password is 'raspberry'.
 2. All of the code you need for this training is in ~ (/home/pi).  This lesson starts from the code in 2-bmp085-n2.
 3. Modify device.js to 1) add your api_key to the device security principal and 2) send the messages the BMP085 device measures to Nitrogen.
-4. Run your device application: `node device.js`
+4. Run your device application: `sudo node device.js`
 5. On your computer, open the [web admin](http://admin.nitrogen.io) in your browser and log in.
 6. Click on 'devices':  You should see your newly created device in the list.
 7. Click on your device in this list:  You should see the set of messages it has sent and new ones pop in as they arrive in real time.

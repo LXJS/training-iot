@@ -9,4 +9,4 @@ In this lesson, we are going to use the 'bmp085' module to measure temperature a
 3. Clone the training repo:  git clone https://github.com/LXJS/training-iot
 4. Write the code in device.js in this directory to 1) take the air temperature and pressure and 2) print it out.
 5. Run `npm install` to fetch all of your dependencies.
-6. Run `node device.js` on the device.
+6. Run `sudo node device.js` on the device.
