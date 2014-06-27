@@ -5,7 +5,6 @@ In this lesson, we are going to use the 'bmp085' module to measure temperature a
 ## Instructions
 
 1. Shell into your Raspberry Pi device using the ip address written on the bottom.
-2. This directory has the skeleton code for the solution to this lesson.
-3. Write the code in device.js in this directory to 1) take the air temperature and pressure and 2) print it out.
-4. Run `npm install` to fetch all of your dependencies.
-5. Run `sudo node device.js` on the device.
+2. Write the code in device.js in this directory to 1) take the air temperature and pressure and 2) print it out.
+3. Run `npm install` to fetch all of your dependencies.
+4. Run `sudo node device.js` on the device.
