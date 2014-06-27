@@ -10,6 +10,7 @@
   "dependencies": {
     "bmp085": "*",
     "nitrogen-bmp085": "*",
+    "nitrogen-leveldb-store": "*",
     "nitrogen": "*" 
   },
   "devDependencies": {
