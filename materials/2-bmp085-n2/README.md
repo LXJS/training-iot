@@ -20,3 +20,4 @@ In this lesson, we are going to build a device application that relays our tempe
 5. On your computer, open the [web admin](http://admin.nitrogen.io) in your browser and log in.
 6. Click on 'devices':  You should see your newly created device in the list.
 7. Click on your device in this list:  You should see the set of messages it has sent and new ones pop in as they arrive in real time.
+8. Keep your device running and collecting telemetry and move on to the next lesson, which will combine your device with a web application.
